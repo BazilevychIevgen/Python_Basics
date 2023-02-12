@@ -35,7 +35,7 @@ class QA(User):
 
 class Manager(User):
     def perform_action(self):
-        print("Зайнятий. Напишіть мені листа з Вашим питанням")
+        print("Зайнятий. Напишіть мені  Вашим питанням")
      
 
         
