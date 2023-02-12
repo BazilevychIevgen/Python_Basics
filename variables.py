@@ -8,7 +8,7 @@ input_qa_task = input("Введіть поставлену задачу тест
 class User:
     
     def __init__(self, username , expected_action):
-        self._username = username
+        self._ = username
         self._expected_action = expected_action
 
     def perform_action(self):
